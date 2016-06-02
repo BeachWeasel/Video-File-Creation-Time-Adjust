@@ -1,0 +1,19 @@
+c:\users\admin\documents\visual studio 2015\Projects\VideoFileCreationTimeOriginalFromMetadata\VideoFileCreationTimeOriginalFromMetadata\bin\Debug\x64\MediaInfo.dll
+c:\users\admin\documents\visual studio 2015\Projects\VideoFileCreationTimeOriginalFromMetadata\VideoFileCreationTimeOriginalFromMetadata\bin\Debug\x86\MediaInfo.dll
+c:\users\admin\documents\visual studio 2015\Projects\VideoFileCreationTimeOriginalFromMetadata\VideoFileCreationTimeOriginalFromMetadata\bin\Debug\MediaInfoDotNet.dll.config
+c:\users\admin\documents\visual studio 2015\Projects\VideoFileCreationTimeOriginalFromMetadata\VideoFileCreationTimeOriginalFromMetadata\bin\Debug\VideoFileCreationTimeOriginalFromMetadata.dll
+c:\users\admin\documents\visual studio 2015\Projects\VideoFileCreationTimeOriginalFromMetadata\VideoFileCreationTimeOriginalFromMetadata\bin\Debug\VideoFileCreationTimeOriginalFromMetadata.pdb
+c:\users\admin\documents\visual studio 2015\Projects\VideoFileCreationTimeOriginalFromMetadata\VideoFileCreationTimeOriginalFromMetadata\bin\Debug\MediaInfoDotNet.dll
+c:\users\admin\documents\visual studio 2015\Projects\VideoFileCreationTimeOriginalFromMetadata\VideoFileCreationTimeOriginalFromMetadata\bin\Debug\MediaInfoDotNet.xml
+c:\users\admin\documents\visual studio 2015\Projects\VideoFileCreationTimeOriginalFromMetadata\VideoFileCreationTimeOriginalFromMetadata\obj\Debug\VideoFileCreationTimeOriginalFromMetadata.dll
+c:\users\admin\documents\visual studio 2015\Projects\VideoFileCreationTimeOriginalFromMetadata\VideoFileCreationTimeOriginalFromMetadata\obj\Debug\VideoFileCreationTimeOriginalFromMetadata.pdb
+C:\Users\admin\Source\Repos\Video-File-Creation-Time-Adjust\VideoFileCreationTimeOriginalFromMetadata\bin\Debug\x64\MediaInfo.dll
+C:\Users\admin\Source\Repos\Video-File-Creation-Time-Adjust\VideoFileCreationTimeOriginalFromMetadata\bin\Debug\x86\MediaInfo.dll
+C:\Users\admin\Source\Repos\Video-File-Creation-Time-Adjust\VideoFileCreationTimeOriginalFromMetadata\bin\Debug\MediaInfoDotNet.dll.config
+C:\Users\admin\Source\Repos\Video-File-Creation-Time-Adjust\VideoFileCreationTimeOriginalFromMetadata\bin\Debug\VideoFileCreationTimeOriginalFromMetadata.dll
+C:\Users\admin\Source\Repos\Video-File-Creation-Time-Adjust\VideoFileCreationTimeOriginalFromMetadata\bin\Debug\VideoFileCreationTimeOriginalFromMetadata.pdb
+C:\Users\admin\Source\Repos\Video-File-Creation-Time-Adjust\VideoFileCreationTimeOriginalFromMetadata\bin\Debug\MediaInfoDotNet.dll
+C:\Users\admin\Source\Repos\Video-File-Creation-Time-Adjust\VideoFileCreationTimeOriginalFromMetadata\bin\Debug\MediaInfoDotNet.xml
+C:\Users\admin\Source\Repos\Video-File-Creation-Time-Adjust\VideoFileCreationTimeOriginalFromMetadata\obj\Debug\VideoFileCreationTimeOriginalFromMetadata.csprojResolveAssemblyReference.cache
+C:\Users\admin\Source\Repos\Video-File-Creation-Time-Adjust\VideoFileCreationTimeOriginalFromMetadata\obj\Debug\VideoFileCreationTimeOriginalFromMetadata.dll
+C:\Users\admin\Source\Repos\Video-File-Creation-Time-Adjust\VideoFileCreationTimeOriginalFromMetadata\obj\Debug\VideoFileCreationTimeOriginalFromMetadata.pdb

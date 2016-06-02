@@ -1,0 +1,32 @@
+c:\users\admin\documents\visual studio 2015\Projects\VideoFileCreationTimeOriginalFromMetadata\tesingform\bin\Debug\tesingform.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\VideoFileCreationTimeOriginalFromMetadata\tesingform\bin\Debug\tesingform.exe
+c:\users\admin\documents\visual studio 2015\Projects\VideoFileCreationTimeOriginalFromMetadata\tesingform\bin\Debug\tesingform.pdb
+c:\users\admin\documents\visual studio 2015\Projects\VideoFileCreationTimeOriginalFromMetadata\tesingform\obj\Debug\tesingform.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\VideoFileCreationTimeOriginalFromMetadata\tesingform\obj\Debug\tesingform.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\VideoFileCreationTimeOriginalFromMetadata\tesingform\obj\Debug\tesingform.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\VideoFileCreationTimeOriginalFromMetadata\tesingform\obj\Debug\tesingform.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\VideoFileCreationTimeOriginalFromMetadata\tesingform\obj\Debug\tesingform.exe
+c:\users\admin\documents\visual studio 2015\Projects\VideoFileCreationTimeOriginalFromMetadata\tesingform\obj\Debug\tesingform.pdb
+c:\users\admin\documents\visual studio 2015\Projects\VideoFileCreationTimeOriginalFromMetadata\tesingform\bin\Debug\VideoFileCreationTimeOriginalFromMetadata.dll
+c:\users\admin\documents\visual studio 2015\Projects\VideoFileCreationTimeOriginalFromMetadata\tesingform\bin\Debug\MediaInfoDotNet.dll
+c:\users\admin\documents\visual studio 2015\Projects\VideoFileCreationTimeOriginalFromMetadata\tesingform\bin\Debug\VideoFileCreationTimeOriginalFromMetadata.pdb
+c:\users\admin\documents\visual studio 2015\Projects\VideoFileCreationTimeOriginalFromMetadata\tesingform\bin\Debug\MediaInfoDotNet.xml
+c:\users\admin\documents\visual studio 2015\Projects\VideoFileCreationTimeOriginalFromMetadata\tesingform\bin\Debug\x64\MediaInfo.dll
+c:\users\admin\documents\visual studio 2015\Projects\VideoFileCreationTimeOriginalFromMetadata\tesingform\bin\Debug\x86\MediaInfo.dll
+c:\users\admin\documents\visual studio 2015\Projects\VideoFileCreationTimeOriginalFromMetadata\tesingform\bin\Debug\MediaInfoDotNet.dll.config
+C:\Users\admin\Source\Repos\Video-File-Creation-Time-Adjust\tesingform\bin\Debug\x64\MediaInfo.dll
+C:\Users\admin\Source\Repos\Video-File-Creation-Time-Adjust\tesingform\bin\Debug\x86\MediaInfo.dll
+C:\Users\admin\Source\Repos\Video-File-Creation-Time-Adjust\tesingform\bin\Debug\MediaInfoDotNet.dll.config
+C:\Users\admin\Source\Repos\Video-File-Creation-Time-Adjust\tesingform\bin\Debug\tesingform.exe.config
+C:\Users\admin\Source\Repos\Video-File-Creation-Time-Adjust\tesingform\bin\Debug\tesingform.exe
+C:\Users\admin\Source\Repos\Video-File-Creation-Time-Adjust\tesingform\bin\Debug\tesingform.pdb
+C:\Users\admin\Source\Repos\Video-File-Creation-Time-Adjust\tesingform\bin\Debug\MediaInfoDotNet.dll
+C:\Users\admin\Source\Repos\Video-File-Creation-Time-Adjust\tesingform\bin\Debug\VideoFileCreationTimeOriginalFromMetadata.dll
+C:\Users\admin\Source\Repos\Video-File-Creation-Time-Adjust\tesingform\bin\Debug\MediaInfoDotNet.xml
+C:\Users\admin\Source\Repos\Video-File-Creation-Time-Adjust\tesingform\bin\Debug\VideoFileCreationTimeOriginalFromMetadata.pdb
+C:\Users\admin\Source\Repos\Video-File-Creation-Time-Adjust\tesingform\obj\Debug\tesingform.csprojResolveAssemblyReference.cache
+C:\Users\admin\Source\Repos\Video-File-Creation-Time-Adjust\tesingform\obj\Debug\tesingform.Form1.resources
+C:\Users\admin\Source\Repos\Video-File-Creation-Time-Adjust\tesingform\obj\Debug\tesingform.Properties.Resources.resources
+C:\Users\admin\Source\Repos\Video-File-Creation-Time-Adjust\tesingform\obj\Debug\tesingform.csproj.GenerateResource.Cache
+C:\Users\admin\Source\Repos\Video-File-Creation-Time-Adjust\tesingform\obj\Debug\tesingform.exe
+C:\Users\admin\Source\Repos\Video-File-Creation-Time-Adjust\tesingform\obj\Debug\tesingform.pdb
